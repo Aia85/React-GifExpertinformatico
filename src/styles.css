@@ -51,16 +51,12 @@
     margin-right: 20px;
     overflow: hidden;
   }
-  
-  .card p {
+
+  .card p{
+    color: black;
     background-color: white;
-    flex: 1;
-    font-size: 1.5rem;
-    margin-top: 5px;
-    padding: 5px 20px 0px 20px;
-    text-align: center;
-    color:rgb(2,0,36);
-  }
+  } 
+
   
   .card img {
     height: 250px;
